@@ -62,4 +62,4 @@ This project was developed to:
 ## 🙋‍♂️ Author
 
 Made with ❤️ by **Yawar Hussain**  
-🔗 [GitHub Profile](https://github.com/YOUR-GITHUB-USERNAME)
+🔗 [GitHub Profile](https://github.com/YawarHussain672)
